@@ -8,13 +8,13 @@ Graduate level or above in maths, physics, chemistry, biology, computer science 
 
 ## Timetable
 
-Mon: Maths 2, Physics 2, CS exercise 0.5
-Tue: CS 2.5, Chemistry 1, Computer engineering 1
+Mon: Maths 2, Physics 1, CS 2
+Tue: CS 1.5, Chemistry 1, Computer engineering 2
 Wed: Maths 2, Physics 1.5, Biology 1
-Thu: CS 2.5, Computer engineering 1.5, Chemistry 0.5
-Fri: Maths 1.5, Physics 1, Biology 1, CS 1
-Sat: Chemistry 1.5, Biology 1, Computer engineering 1, CS 1.5, weekly test 1, piano 1
-Sun: minimum 20 min weekly review and commit.
+Thu: CS 2.5, Computer engineering 2
+Fri: Maths 1.5, Physics 1, Biology 1, Chemistry 1
+Sat: Chemistry 1, Biology 1, Computer engineering 1.5, CS 1.5
+Sun: minimum 20 min weekly review and commit, piano 2.
 Piano: 30 min each weekday.
 
 ## Level roadmap
